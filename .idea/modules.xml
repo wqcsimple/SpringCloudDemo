@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo.iml" filepath="$PROJECT_DIR$/cloudDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaClientOne/eureka-client-one.iml" filepath="$PROJECT_DIR$/eurekaClientOne/eureka-client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaClientTwo/eurekaClientTwo.iml" filepath="$PROJECT_DIR$/eurekaClientTwo/eurekaClientTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/rpc-client/rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/rpc-server/rpc-server.iml" />
+    </modules>
+  </component>
+</project>
