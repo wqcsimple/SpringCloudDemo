@@ -1,4 +1,4 @@
-package com.rpc.server.rpc.service;
+package com.whis.eureka.server.rpc.service;
 
 import com.whis.domain.service.HelloService;
 import org.springframework.stereotype.Service;

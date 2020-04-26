@@ -1,4 +1,4 @@
-package com.rpc.server.controller;
+package com.whis.eureka.server.controller;
 
 import com.whis.domain.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,9 +1,9 @@
-package com.rpc.server.rpc;
+package com.whis.eureka.server.rpc;
 
 import com.alipay.sofa.rpc.common.RpcConstants;
 import com.alipay.sofa.rpc.config.ProviderConfig;
 import com.alipay.sofa.rpc.config.ServerConfig;
-import com.rpc.server.rpc.service.HelloServiceImpl;
+import com.whis.eureka.server.rpc.service.HelloServiceImpl;
 import com.whis.domain.service.HelloService;
 import org.springframework.stereotype.Component;
 

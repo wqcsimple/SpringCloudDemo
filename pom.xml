@@ -12,10 +12,16 @@
         <module>eureka-server</module>
         <module>eurekaClientOne</module>
         <module>eurekaClientTwo</module>
+<!--        RPC-->
         <module>rpc-server</module>
         <module>rpc-client</module>
+
         <module>domain</module>
         <module>client-api</module>
+<!--        配置动态更新-->
+        <module>configserver</module>
+        <module>configclient</module>
+        <module>gateway-server</module>
     </modules>
 
     <profiles>
